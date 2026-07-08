@@ -1,0 +1,10 @@
+{
+  "app": "Release Card",
+  "theme": "release marker",
+  "baseAppId": "6a085298bc175abcdd56520c",
+  "builderWallet": "0xE09103f0DaadD0cF7D692a013C37310ca586954E",
+  "builderCode": "bc_1cwozz4r",
+  "network": "Base",
+  "liveDemo": "https://release-card.vercel.app",
+  "repository": "https://github.com/lackfox9623/release-card-base-dapp"
+}
